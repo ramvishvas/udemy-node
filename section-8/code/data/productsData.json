@@ -1,0 +1,11 @@
+[{
+    "title": "Apple",
+    "imgUrl": "http://searchfoto.ru/img/xyygpKbDS1y8pTjXRy83VS8rMS9fLSy3RL8mwz0yx9fcM0EvKcHc1LChODA-rKA7w98-wME7PyA90BAK1xNwC63JbI2MDMCvD1tAcwioqtjUEMwqSc2xTwADMzbc1hQgDjTbUMwQA.jpg",
+    "description": "The following example contains two input elements; one of type text and one of type password:",
+    "price": "120"
+}, {
+    "title": "Book",
+    "imgUrl": "http://searchfoto.ru/img/xyygpKbDS1y8pTjXRy83VS8rMS9fLSy3RL8mwz0yx9fcM0EvKcHc1LChODA-rKA7w98-wME7PyA90BAK1xNwC63JbI2MDMCvD1tAcwioqtjUEMwqSc2xTwADMzbc1hQgDjTbUMwQA.jpg",
+    "description": "qwerg",
+    "price": "12.99"
+}]
